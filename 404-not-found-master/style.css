@@ -58,6 +58,9 @@ header h1{
     margin:24px auto auto 0;
 }
 @media only screen and (max-width:375px) {
+    body{
+        max-height: 868px;
+    }
     header{
         margin: 25px;
     }
